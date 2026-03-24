@@ -1,0 +1,11 @@
+streamlit
+google-genai
+openai
+playwright
+pydantic
+pandas
+beautifulsoup4
+requests
+openpyxl
+PyMuPDF
+anthropic
